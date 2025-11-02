@@ -2,7 +2,8 @@
 
 <div align="center">
 
-![banner](https://github.com/user-attachments/assets/4cc4f98a-b28f-4f35-84f3-6d59371f21b7)
+![banner](https://via.placeholder.com/1600x400.png?text=Vedant+Shahi+-+Full+Stack+Developer)
+
 
 # 👋 Hey, I'm **Vedant Shahi**
 ### 🚀 Full Stack Developer | Problem Solver | Builder of Digital Experiences
@@ -24,7 +25,7 @@
 
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=dotnet,nodejs,nextjs,react,flutter,postgresql,mongodb,html,css,js,bootstrap,c,cpp,python,aws,docker,git,postman,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,nodejs,nextjs,react,sql,postgresql,mongodb,html,css,js,bootstrap,c,cpp,python,aws,docker,git,postman,vscode)](https://skillicons.dev)
 
 </div>
 
@@ -39,7 +40,7 @@
 💡 **[AllCanFarm](https://github.com/vedantshahi/AllCanFarm)**  
 > Empowering farmers with **Direct Market Access**, reducing dependency on intermediaries.
 
-⚙️ **InnoHub (Concept)**  
+⚙️ **InnoHub (**  
 > An internal HR engagement app crafted with **.NET Core (MVC)** + **Next.js** + **MongoDB**.
 
 ---

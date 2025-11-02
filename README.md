@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![banner](https://i.ibb.co/vQHkyfZ/dev-banner-min.gif)
+![banner](https://github.com/user-attachments/assets/4cc4f98a-b28f-4f35-84f3-6d59371f21b7)
 
 # 👋 Hey, I'm **Vedant Shahi**
 ### 🚀 Full Stack Developer | Problem Solver | Builder of Digital Experiences
